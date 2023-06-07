@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">QUẢN LÝ THỜI GIAN</langstring>
+          <langstring xml:lang="x-none">CÁC PHƯƠNG PHÁP QUẢN LÝ THỜI GIAN   </langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="QUẢN_LÝ_THỜI_GIAN_ORG">
-    <organization identifier="QUẢN_LÝ_THỜI_GIAN_ORG">
-      <title>QUẢN LÝ THỜI GIAN</title>
+  <organizations default="CÁC_PHƯƠNG_PHÁP_QUẢN_LÝ_THỜI_GIAN____ORG">
+    <organization identifier="CÁC_PHƯƠNG_PHÁP_QUẢN_LÝ_THỜI_GIAN____ORG">
+      <title>CÁC PHƯƠNG PHÁP QUẢN LÝ THỜI GIAN   </title>
       <item identifier="Quản_lý_thời_gian_SCO" isvisible="true" identifierref="__6ZZscvIyxkX_course_id_RES">
-        <title>QUẢN LÝ THỜI GIAN</title>
+        <title>CÁC PHƯƠNG PHÁP QUẢN LÝ THỜI GIAN   </title>
       </item>
     </organization>
   </organizations>
